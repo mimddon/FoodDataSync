@@ -1,2 +1,2 @@
-# FoodDataSync-
+# FoodDataSync
 db 수집
